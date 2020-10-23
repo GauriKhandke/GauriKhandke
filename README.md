@@ -23,6 +23,8 @@ I currently have my sights set on a full time web development position.
 
 [Portfolio](https://gaurikhandke.github.io/responsive-portfolio/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauriKhandke&layout=compact)](https://github.com/GauriKhandke/github-readme-stats)
+
 ### Technical Skills
 
 * **Front End**: JavaScript(ES6), jQuery, AJAX, HTML, CSS, Handlebars.js, React.js
@@ -30,6 +32,7 @@ I currently have my sights set on a full time web development position.
 * **Frameworks**: Bootstrap, Semantic UI
 * **Applications**: Git, GitHub, Heroku
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauriKhandke&layout=compact)](https://github.com/GauriKhandke/github-readme-stats)
+### GitHub Stats
 
-![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=tokyonight) -->
+![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=gruvbox)
+<!-- ![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=tokyonight) -->
