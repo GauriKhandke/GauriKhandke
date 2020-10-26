@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-Passionate Full Stack web developer with certification in full stack web development and graduation in Information Technology. Effective at combining logical thinking and problem solving to develop user-friendly applications. Graduated with Bachelor of Engineering in Information Technology from Shivaji University, India. 
-
+Passionate Full Stack web developer with certification in full stack web development and graduated with Bachelor's of Engineering in Information Technology from Shivaji University, India. Effective at combining logical thinking and problem solving to develop user-friendly applications.  
 Life-long dedication to learning and in self development. Quick-learner, organized, collaborative communicator.
 I look forward to bringing my skills and passion for software development to build user focused applications.
 
