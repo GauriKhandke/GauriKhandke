@@ -1,4 +1,4 @@
-## Gauri Khandke
+## Gauri Khandke 
 
 <!--
 **GauriKhandke/GauriKhandke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Summary
+### About Me :
 
-Full Stack Web Developer with a graduation in Information Technology and life-long dedication to learning and in self development. Effective at combining logical thinking and problem solving to develop user-friendly applications.
-I currently have my sights set on a full time web development position.
+Passionate Full Stack web developer with certification in full stack web development and graduation in Information Technology. Effective at combining logical thinking and problem solving to develop user-friendly applications. Graduated with Bachelor of Engineering in Information Technology from Shivaji University, India. 
 
+Life-long dedication to learning and in self development. Quick-learner, organized, collaborative communicator.
+I look forward to bringing my skills and passion for software development to build user focused applications.
 
-[Portfolio](https://gaurikhandke.github.io/responsive-portfolio/)
+**[Portfolio](https://gaurikhandke.github.io/responsive-portfolio/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauriKhandke&layout=compact)](https://github.com/GauriKhandke/github-readme-stats)
 
-### Technical Skills
+### Technical Skills :
 
 * **Front End**: JavaScript(ES6), jQuery, AJAX, HTML, CSS, Handlebars.js, React.js
 * **Back End**: Node.js, Express.js, APIs, SQL(MySQL), Sequelize, NoSQL(MongoDB), Mongoose
 * **Frameworks**: Bootstrap, Semantic UI
 * **Applications**: Git, GitHub, Heroku
 
-### GitHub Stats
+### GitHub Stats :
 
 ![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=gruvbox)
 <!-- ![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=tokyonight) -->
