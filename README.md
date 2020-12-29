@@ -1,19 +1,19 @@
 # Gauri Khandke 
 
-[![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-orange?style=plastic&logoColor=white&link=https://gaurikhandke.github.io/react-portfolio/)](https://gaurikhandke.github.io/react-portfolio/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gauri_Khandke-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurikhandke/)](https://www.linkedin.com/in/gaurikhandke/) 
-[![Gmail Badge](https://img.shields.io/badge/-khandkegauri@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:khandkegauri@gmail.com)](mailto:khandkegauri@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-orange?&logoColor=white&link=https://gaurikhandke.github.io/react-portfolio/)](https://gaurikhandke.github.io/react-portfolio/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gauri_Khandke-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurikhandke/)](https://www.linkedin.com/in/gaurikhandke/) 
+[![Gmail Badge](https://img.shields.io/badge/-khandkegauri@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:khandkegauri@gmail.com)](mailto:khandkegauri@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=GauriKhandke&color=brightgreen)
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%GauriKhandke%2Fhit-counter) -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![React JS](https://img.shields.io/badge/-ReactJS-black?style=plastic&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=plastic&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=plastic&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
+![React JS](https://img.shields.io/badge/-ReactJS-black?&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-NodeJS-black?&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb)
 
 ## About Me :
 
