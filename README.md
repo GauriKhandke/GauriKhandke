@@ -14,6 +14,8 @@
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?&logo=mongodb)
+![mySQL](https://img.shields.io/badge/-mySQL-black?&logo=mySQL)
+![Rest API's](https://img.shields.io/badge/-Rest_API's-black?&logo=RESTful)
 
 ## About Me :
 
@@ -38,4 +40,5 @@ I look forward to bringing my skills and passion for software development to bui
 
 <br/>
 
-![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=gruvbox)
+![Gauri's github stats](https://github-readme-stats.vercel.app/api?username=GauriKhandke&show_icons=true&theme=gruvbox&bg_color=30,e96443,904e95&title_color=49198a&text_color=e1d8ed&hide=issues)
+
