@@ -2,7 +2,6 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/-Click_to_View_Portfolio-orange?&logoColor=white&link=https://gaurikhandke.github.io/react-portfolio/)](https://gaurikhandke.github.io/react-portfolio/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gauri_Khandke-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurikhandke/)](https://www.linkedin.com/in/gaurikhandke/) 
-[![Gmail Badge](https://img.shields.io/badge/-khandkegauri@gmail.com-c14438?&logo=Gmail&logoColor=white&link=mailto:khandkegauri@gmail.com)](mailto:khandkegauri@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=GauriKhandke&color=brightgreen)
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%GauriKhandke%2Fhit-counter) -->
 
